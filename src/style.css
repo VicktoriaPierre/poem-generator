@@ -1,7 +1,6 @@
 body {
   background-color: rgb(236, 203, 209);
   font-family: Helvetica, Arial, sans-serif;
-  text-align: center;
 }
 
 a {
@@ -9,7 +8,6 @@ a {
 }
 
 .container {
-    text-align: center;
   margin: 120px auto;
   max-width: 600px;
 }
@@ -19,7 +17,7 @@ header {
 }
 
 h1 {
-  text-align: center;
+    text-align: center;
   font-weight: 800;
   font-size: 36px;
   line-height: 1.5;
@@ -27,7 +25,6 @@ h1 {
 }
 
 form {
-    text-align: center;
   padding: 30px;
   background-color: white;
   box-shadow: 0px 20px 60px rgba(65, 50, 100, 0.08);
@@ -37,7 +34,6 @@ form {
 }
 
 .instructions {
-    text-align: center;
   padding: 16px;
   border: 1px solid rgba(39, 33, 66, 0.5);
   width: 80%;
@@ -48,7 +44,6 @@ form {
 }
 
 .submit-button {
-  text-align: center;
   margin-left: 10px;
   background: #885df1;
   color: white;
@@ -60,7 +55,6 @@ form {
 }
 
 .poem {
-    text-align:center ;
   font-size: 16px;
   background-color: #fff;
   padding: 20px;
